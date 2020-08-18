@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="btnplus">+</string>
+    <string name="btnsubstract">-</string>
+    <string name="btnmultiply">x</string>
+    <string name="btndivide">/</string>
+</resources>
